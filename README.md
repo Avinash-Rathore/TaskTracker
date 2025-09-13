@@ -10,8 +10,13 @@ A simple command-line Task Tracker built in Java. It helps users add, view, upda
 ->Delete tasks
 ->Continuous menu loop until user exits
 
-----------------Tech Stack-----------
+----------------Tech Stack-----------------
 
 ->Java (Core Java, OOPs, Collections)
 ->Eclipse IDE (for development)
 ->Git/GitHub (for version control)
+
+--------------HOW TO RUN-------------------
+1. Clone the repository.
+2. import the tasktracker the package in Eclipse.
+3. Run the Main.java
